@@ -17,18 +17,6 @@ Everybody makes mistakes and I make way to many of them, if you see any in my no
   - [(Automatic) Backups]<b><i> (rsync, cron(daily/weekly/monhtly).</b></i>
   - [Read about Linux Server best practices].
 
-<h2>🏢 My Projects</h2>
-
-- <b>Home Server: Ubuntu Server 22.04.02</b>
-  - [Initial setup Ubuntu Server]
-  - [Netplan to setup static IP]
-    - <b>Docker with docker compose</b>
-      - [Docker Compose]
-      - [YAML]
-      - [Home Assistant]
-      - [Game Server]
-      - [Mail Server]
-
 <h2>👨‍💻 Learning & improving at MYSQL:</h2>
 
 - <b>MYSQL Fundamentals to practice</b>
@@ -41,5 +29,17 @@ Everybody makes mistakes and I make way to many of them, if you see any in my no
   - [Common Table Expressions].
   - [Set operators].
   - [Modifying data in MySQL].
+
+<h2>🏢 My Projects</h2>
+
+- <b>Home Server: Ubuntu Server 22.04.02</b>
+  - [Initial setup Ubuntu Server]
+  - [Netplan to setup static IP]
+    - <b>Docker with docker compose</b>
+      - [Docker Compose]
+      - [YAML]
+      - [Home Assistant]
+      - [Game Server]
+      - [Mail Server]
 <!--
 **BelowAverageUser/BelowAverageUser** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
