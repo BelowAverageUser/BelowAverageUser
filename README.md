@@ -1,6 +1,6 @@
 <h1>Hi, I'm Dennis!</h1>
 
-🙋‍♂️ Hey there! I'm Dennis, and I'm genuinely enthusiastic about all things IT. I thrive on constantly improving my skills and diving into problem-solving adventures. My background lies in skilled service desk and system management, which has exposed me to diverse user bases and allowed me to gain hands-on experience. These days, I'm filling the role of IT Functional Management, where I get to oversee an HR application, fill the knowledge database, advice HR, contact the software developers and keep things running smoothly.
+🙋‍♂️ Hey there! I'm Dennis, and I'm genuinely enthusiastic about all things IT. I thrive on constantly improving my skills and diving into problem-solving adventures. My background lies in Skilled Service Desk and System Management, which has exposed me to diverse user bases and allowed me to gain hands-on experience. These days, I'm filling the role of IT Functional Management, where I get to oversee an HR application, fill the knowledge database, advice HR, contact the software developers and keep things running smoothly.
 
 I created this repository so I can follow my own progress, keep my notes together and learn together with the members on GitHub.
 Everybody makes mistakes and I make way to many of them, if you see any in my notes please correct me. 
