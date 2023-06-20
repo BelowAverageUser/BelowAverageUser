@@ -8,7 +8,7 @@ Everybody makes mistakes and I make way to many of them, if you see any in my no
 <h2>👨‍💻 Learning & improving at Linux Server:</h2>
 
 - <b>Fundamentals Linux Server</b>
-  - [Practicing most used Linux commands ].
+  - [Practicing most used Linux commands].
   - [Learn the Linux file system].
   - [User management]<b><i> (adduser, del user, etc).</b></i>
   - [Files and directory permissions, File ownership, File maintenance]<b><i> (rwx,ugo, -rwxrwxrwx).</b></i>
