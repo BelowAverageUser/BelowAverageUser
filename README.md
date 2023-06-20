@@ -1,9 +1,14 @@
 <h1>Hi, I'm Dennis!</h1>
 
-🙋‍♂️ Hey there! I'm Dennis, and I'm genuinely enthusiastic about all things IT. I thrive on constantly improving my skills and diving into problem-solving adventures. My background lies in Skilled Service Desk and System Management, which has exposed me to diverse user bases and allowed me to gain hands-on experience. These days, I'm filling the role of IT Functional Management, where I get to oversee an HR application, fill the knowledge database, advice HR, contact the software developers and keep things running smoothly.
+🙋‍♂️ Hey there! I'm Dennis, from The Netherlands, and I'm genuinely enthusiastic about all things IT. I thrive on constantly improving my skills and diving into problem-solving adventures. My background lies in Skilled Service Desk and System Management, which has exposed me to diverse user bases and allowed me to gain hands-on experience. These days, I'm filling the role of IT Functional Management, where I get to oversee an HR application, fill the knowledge database, advice HR, contact the software developers and keep things running smoothly.
 
 I created this repository so I can follow my own progress, keep my notes together and learn together with the members on GitHub.
 Everybody makes mistakes and I make way to many of them, if you see any in my notes please correct me. 
+
+<h2>📝 Learning how to create notes</h2>
+Something very important what I have never learned is on how to write notes, what do I write down? Everything? What do I need to remember?
+In this learning proces I will be trying to write down the commands and steps that I think are the most important.
+Any hints or tips are extremely welcome. 
 
 <h2>👨‍💻 Learning & improving at Linux Server:</h2>
 
