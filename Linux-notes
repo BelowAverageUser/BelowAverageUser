@@ -1,0 +1,33 @@
+Linux Notes
+Journeying through Linux, one note at a time.
+I'm in the process of learning, so these notes might contain errors or omissions. If you spot anything that seems inaccurate or have suggestions for improvement, please feel free to request changes. 
+Your feedback is greatly appreciated as it contributes to the refinement and accuracy of this repository. Thank you for joining me on this learning journey!
+
+##### File System Operations
+
+- `ls`: List directory contents.
+- `cd`: Change directory.
+- `mkdir`: Create a directory.
+- `rm`: Remove files or directories.
+
+##### Process Management
+
+- `ps`: Display information about running processes.
+- `kill`: Terminate processes.
+- `top`: Display and update sorted information about processes.
+
+##### Network Commands
+Network-related commands, configurations, and troubleshooting steps.
+
+- `ifconfig`: Display or configure network interface parameters.
+- `ping`: Check connectivity to a server.
+- `netstat`: Display network connections.
+
+##### Firewall Configuration
+
+- `ufw`: Uncomplicated Firewall.
+- `iptables`: Configure IP packet filter rules.
+
+##### Backup Script
+
+- [Nothing yet]
